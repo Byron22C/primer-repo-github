@@ -1,0 +1,11 @@
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\bin\Debug\ingresarProductos.exe.config
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\bin\Debug\ingresarProductos.exe
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\bin\Debug\ingresarProductos.pdb
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\bin\Debug\ingresarProductos.xml
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\obj\Debug\ingresarProductos.vbprojAssemblyReference.cache
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\obj\Debug\ingresarProductos.Form1.resources
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\obj\Debug\ingresarProductos.Resources.resources
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\obj\Debug\ingresarProductos.vbproj.GenerateResource.cache
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\obj\Debug\ingresarProductos.exe
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\obj\Debug\ingresarProductos.xml
+C:\Users\ITQ\source\repos\ingresarProductos\ingresarProductos\obj\Debug\ingresarProductos.pdb
